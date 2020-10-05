@@ -1,0 +1,28 @@
+
+
+.col-4{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: brown;
+    height: 100vh;
+}
+
+.informa{
+    background-color: #fff;
+}
+
+.img1{
+    max-width: 400px;
+    max-height: 500px;
+}
+.img3{
+    max-width: 400px;
+    max-height: 500px;
+}
+
+.pontuacao{
+    text-align: center;
+    padding-top: 15px;
+}
