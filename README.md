@@ -5,3 +5,5 @@ $dbNome = 'basketpoint'
 $dbHost = 'localhost'
 $dbUsuario = 'root'
 $dbSenha ''
+
+POR FAVOR USE  localhost/adicionar.php   para entrar nas telas do sistema!
