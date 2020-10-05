@@ -1,0 +1,22 @@
+body{
+    background-color:#134490;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.pontuacao{
+    height: 100px;
+    text-align: center;
+    font-size: large;
+}
+
+input{
+    margin-top: 5px;
+}
+
